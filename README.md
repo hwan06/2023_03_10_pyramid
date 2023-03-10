@@ -7,7 +7,7 @@
 ### i는 최대 99까지 증가하기 때문에 99*2+1을하여 총 199개의 별이 출력된다. 공백 공식은 전체층(n)에서 현재층(i)를 빼주면
 ### n = 100, i = 1이라는 가정하에 n - i = 99개의공백이 출력 된다.
 
-### 자바 코드
+# 자바 코드
 ![image](https://user-images.githubusercontent.com/114748934/224193591-3ff07a16-decc-4147-844e-3c721003fa49.png)
 ### 실행 화면
 ![image](https://user-images.githubusercontent.com/114748934/224193674-0c6a8c8e-9886-47fb-9210-5ed61b8a918e.png)
