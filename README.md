@@ -8,6 +8,6 @@
 ### n = 100, i = 1이라는 가정하에 n - i = 99개의공백이 출력 된다.
 
 # 자바 코드
-![image](https://user-images.githubusercontent.com/114748934/224193591-3ff07a16-decc-4147-844e-3c721003fa49.png)
+![image](https://user-images.githubusercontent.com/114748934/224581140-a873b527-095b-4a0d-9da9-233008c88fe2.png)
 ### 실행 화면
-![image](https://user-images.githubusercontent.com/114748934/224193674-0c6a8c8e-9886-47fb-9210-5ed61b8a918e.png)
+![image](https://user-images.githubusercontent.com/114748934/224581159-20e4819c-0620-4e2c-896e-fe1055a1c5b7.png)
